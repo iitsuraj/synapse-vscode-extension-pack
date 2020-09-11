@@ -1,31 +1,53 @@
 {
-    "name": "synapse-pack",
-    "displayName": "Synapse pack",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.48.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "dbaeumer.vscode-eslint",
-        "christian-kohler.path-intellisense",
-        "christian-kohler.npm-intellisense",
-        "pflannery.vscode-versionlens",
-        "EditorConfig.EditorConfig",
-        "eamodio.gitlens",
-        "streetsidesoftware.code-spell-checker",
-        "msjsdiag.debugger-for-chrome",
-        "eg2.vscode-npm-script",
-        "xabikos.JavaScriptSnippets",
-        "chris-noring.node-snippets",
-        "donjayamanne.git-extension-pack",
-        "esbenp.prettier-vscode",
-        "PKief.material-icon-theme",
-        "CoenraadS.bracket-pair-colorizer",
-        "jasonnutter.search-node-modules",
-        "numso.prettier-standard-vscode"
-    ]
+  "name": "Infogile-NodeJs",
+  "displayName": "Infogile Node Js",
+  "description": "Infogile Recommended vs-code extensnions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "vscode",
+    "infogile",
+    "vscode-extensions-pack",
+    "nodejs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "pflannery.vscode-versionlens",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "msjsdiag.debugger-for-chrome",
+    "eg2.vscode-npm-script",
+    "xabikos.JavaScriptSnippets",
+    "chris-noring.node-snippets",
+    "donjayamanne.git-extension-pack",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme",
+    "CoenraadS.bracket-pair-colorizer",
+    "jasonnutter.search-node-modules",
+    "numso.prettier-standard-vscode"
+  ],
+  "author": {
+    "name": "Suraj Saini",
+    "email": "suraj@infogile.com",
+    "url": "https://iitsuraj.github.io"
+  },
+  "homepage": "https://github.com/iitsuraj/infogile-vscode-extension-pack/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/iitsuraj/infogile-vscode-extension-pack/",
+    "email": "suraj@infogile.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iitsuraj/infogile-vscode-extension-pack"
+  },
+  "private": "true",
+  "publisher": "iitsuraj"
 }
